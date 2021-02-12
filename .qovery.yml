@@ -1,0 +1,8 @@
+application:
+  name: httpbin
+  project: redis-qovery-managed-do-test-e2e-kHObm1d2
+  organization: QoveryCommunity
+databases:
+- type: redis
+  version: 6
+  name: e2e-redis
